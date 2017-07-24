@@ -1,0 +1,7 @@
+---
+applications:
+ - name: MouthPiece
+   random-route: true
+   path: target/MouthPiece.war
+   memory: 512M
+   instances: 1
